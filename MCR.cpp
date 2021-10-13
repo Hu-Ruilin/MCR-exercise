@@ -2,4 +2,8 @@ aaa
 bbb
 ccc
 ddd
-eee
+ee$$$$(test2)e
+
+
+this is a patch a test, just modified one line. //xixi
+
